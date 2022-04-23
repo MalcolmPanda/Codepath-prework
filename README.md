@@ -30,7 +30,7 @@ The following **optional** features are implemented:
 * [x] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [ ] User has a limited amount of time to enter their guess on each turn
+* [x] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
 
@@ -42,6 +42,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 <img src="http://g.recordit.co/TDnIIvQdst.gif" width=300><br>
 <img src="http://g.recordit.co/WxqJ7mMrhC.gif" width=300><br>
 <img src="http://g.recordit.co/Kl0qJnFNKx.gif" width=300><br>
+<img src="http://g.recordit.co/JSIzbhGJHY.gif" width=300><br>
 
 
 
