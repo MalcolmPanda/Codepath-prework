@@ -40,9 +40,16 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
+random pattern each new game:
 <img src="http://g.recordit.co/TDnIIvQdst.gif" width=200><br>
+
+3 mistakes feautre:
 <img src="http://g.recordit.co/WxqJ7mMrhC.gif" width=200><br>
+
+game win feature:
 <img src="http://g.recordit.co/Kl0qJnFNKx.gif" width=200><br>
+
+Timer feature:
 <img src="http://g.recordit.co/txpqU8UfqB.gif" width=200><br>
 
 
