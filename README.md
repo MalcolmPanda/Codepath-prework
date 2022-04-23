@@ -40,11 +40,11 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-random pattern each new game:
+random pattern for each new game:
 
 <img src="http://g.recordit.co/TDnIIvQdst.gif" width=200><br>
 
-3 mistakes feautre:
+3 mistakes feature:
 
 <img src="http://g.recordit.co/WxqJ7mMrhC.gif" width=200><br>
 
