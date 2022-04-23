@@ -51,10 +51,12 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-i used w3 school to look up how to implement a random javascript array with values inbetween two integers. I then used the monzilla developer website to look up how to implement an array that can be populated with the randomly generated integer values. I also used rapidtables.com for css color values. 
+i used w3 school to look up how to implement a random javascript array with values inbetween two integers. I then used the monzilla developer website to look up how to implement an array that can be populated with the randomly generated integer values. I also used rapidtables.com for css color values. I used multiple web articles to build the timer function.
 https://www.w3schools.com/js/js_random.asp
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from
 https://www.rapidtables.com/web/css/css-color.html
+https://www.educative.io/edpresso/how-to-create-a-countdown-timer-using-javascript
+https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 The most challenging aspect for me would be implementing the random array, I am not familiar with javascript so i had to spend extra time looking up the proper syntax, as I have used python for the majority of my development classes. Another interesting challenge involving my implementation of the random pattern was getting the pattern array to change after every game. When i first implemented the feature i noticed that the array values did not change even when i started a new game, at first i thought the random function was broken, but i figured out i had to clear all the values from the pattern array when the stopGame() function was called, and then recreate the array again with new random values when the startGame() function was called. Another challenge for me was figuring out how to keep the clueHoldTime variable from dropping below 0 which would result in the sound being inaudible, and the color no longer displaying. I implemented a boolean check that would check if the value of the clueHoldTime is above a certain threshold before reducing the time the sound is played, and if the value is below the threshold it would increase the clueHoldTime before the next clue sound is played. 
